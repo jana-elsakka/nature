@@ -1,0 +1,15 @@
+body {
+  font-family:georgia;
+  color:rgb(2,48,32);
+  margin-left: 2cm;
+  margin-right: 2cm;
+  margin-top: 2cm;
+  margin-bottom: 2cm;
+  background-color: rgb(216,245,208)
+}
+#index {
+  outline: 2px groove rgb(2,48,32);
+}
+#links{
+  font-size: 10px;
+}
